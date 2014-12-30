@@ -1,0 +1,56 @@
+My Work
+-------
+### make sure working on master branch
+git checkout master
+
+### pull down changes from remote repo
+git fetch
+
+### merge in any changes
+git merge origin/master
+
+### make some code changes on new_branch
+git checkout -b new_branch
+
+### add in new code to new_branch
+git add .
+
+### commit changes made in new_branch
+git commit -m "Comments..."
+
+### get any changes made since starting new coding effort
+git fetch
+
+### ...and then merge them into new_branch
+get merge origin/master
+
+### forms a tracking branch
+git push -u origin new_branch
+
+Collaborator's Work
+-------------------
+git clone (1st time only to get the repo)
+git checkout master
+git fetch
+git branch -r (shows new branch)
+git checkout -b new_branch origin/new_branch (also makes tracking branch)
+git log
+git show new_branch
+<new code on new branch>
+git add .
+git commit -m "New stuff..."
+git fetch
+git push
+
+My Work
+-------
+git fetch
+git log -p new_branch..origin/new_branch
+git merge origin/new_branch
+git checkout master
+git fetch
+git merge origin/master
+git merge new_branch
+git push
+
+etc...
