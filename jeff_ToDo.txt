@@ -9,3 +9,5 @@ Practice Python: http://www.practicepython.org/
 Coding Bat: http://codingbat.com/python
 
 Django: https://www.djangoproject.com/start/
+
+REST: http://rest.elkstein.org/
