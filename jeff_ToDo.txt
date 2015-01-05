@@ -1,4 +1,11 @@
-W3Schools HTML Tutorial: 
-W3Schools CSS Tutorial: 
-W3Schools JavaScript Tutorial: 
-W3Schools PHP Tutorial: 
+W3Schools HTML Tutorial: http://www.w3schools.com/html/default.asp
+W3Schools CSS Tutorial: http://www.w3schools.com/css/default.asp
+W3Schools JavaScript Tutorial: http://www.w3schools.com/js/default.asp
+W3Schools PHP Tutorial: http://www.w3schools.com/php/default.asp
+W3Schools SQL Tutorial: http://www.w3schools.com/sql/default.asp
+W3Schools JQuery Tutorial: http://www.w3schools.com/jquery/default.asp
+
+Practice Python: http://www.practicepython.org/
+Coding Bat: http://codingbat.com/python
+
+Django: https://www.djangoproject.com/start/
