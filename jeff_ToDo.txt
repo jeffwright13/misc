@@ -1,8 +1,11 @@
 TUTURIALS
 =========
 W3Schools HTML Tutorial: http://www.w3schools.com/html/default.asp
+W3Schools Web Building Tutorial: http://www.w3schools.com/website/default.asp
 W3Schools CSS Tutorial: http://www.w3schools.com/css/default.asp
 W3Schools JavaScript Tutorial: http://www.w3schools.com/js/default.asp
+W3Schools XML Tutorial: http://www.w3schools.com/xml/default.asp
+W3Schools XPath Tutorial: http://www.w3schools.com/xpath/xpath_intro.asp
 W3Schools PHP Tutorial: http://www.w3schools.com/php/default.asp
 W3Schools SQL Tutorial: http://www.w3schools.com/sql/default.asp
 W3Schools JQuery Tutorial: http://www.w3schools.com/jquery/default.asp
