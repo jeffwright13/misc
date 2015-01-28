@@ -9,6 +9,9 @@ git fetch
 ### merge in any changes
 git merge origin/master
 
+### create a new branch called new_branch
+git branch new_branch
+
 ### make some code changes on new_branch
 git checkout -b new_branch
 
