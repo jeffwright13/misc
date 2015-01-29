@@ -1,8 +1,8 @@
-TUTURIALS
+TUTORIALS
 =========
-W3Schools HTML Tutorial: http://www.w3schools.com/html/default.asp
+W3Schools HTML Tutorial: http://www.w3schools.com/html/default.asp **DONE**
 W3Schools Web Building Tutorial: http://www.w3schools.com/website/default.asp
-W3Schools CSS Tutorial: http://www.w3schools.com/css/default.asp
+W3Schools CSS Tutorial: http://www.w3schools.com/css/default.asp **DONE**
 W3Schools JavaScript Tutorial: http://www.w3schools.com/js/default.asp
 W3Schools Bootstrap Tutorial: http://www.w3schools.com/bootstrap/default.asp
 W3Schools XML Tutorial: http://www.w3schools.com/xml/default.asp
@@ -19,3 +19,9 @@ CODING
 ======
 Practice Python: http://www.practicepython.org/
 Coding Bat: http://codingbat.com/python
+
+PyModules
+=========
+unittest: https://docs.python.org/2/library/unittest.html
+nose: https://nose.readthedocs.org/en/latest/
+itertools: https://docs.python.org/2/library/itertools.html
