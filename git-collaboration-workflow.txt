@@ -1,3 +1,9 @@
+Config git on a New Machine
+---------------------------
+git config --global user.name '<your-name-here>'
+git config --global user/email '<your-email-here>'
+git config --global color.ui true
+
 My Work
 -------
 ### make sure working on master branch
